@@ -1,0 +1,59 @@
+No tenemos proyecto aún.
+Rol:Sysadmin
+todo
+
+Rol:Gerente 
+Opciones: 
+-Agregar venta
+-Agregar Compra
+-Eliminar Venta: Delete 
+-Modificar Venta
+-modificar Compra 
+-Consultar Empleados 
+
+
+Rol: Jefe de control de stock:
+- Contro de inventarios: Insert, Update, delete, select 
+-Agregar productos: update 
+-Consultar productos: select 
+- Modificar producto: update 
+
+
+Rol: Cajero 
+Opciones: 
+-Agregar Venta:Insert
+-Consultar Venta: Select
+-Consultar clientes: Select 
+-Agregar cliente: insert 
+-Modificar cliente: update
+
+Rol RH:
+Opciones: 
+-Consultar empleados: select
+-Despedir empleados:update 
+-Modificar cargos: update 
+
+Rol: Reponedor
+-Actualizar la cantidad en stock:update 
+-Consultar la cantidad en stock: select 
+-Consultar productos: select
+-Consultar categorias: select 
+
+Rol: Jefe de Almacen
+-Insertar descuentos: Insert 
+-Modificar los precios:update 
+-Agregar productos: insert 
+-Modificar productos: update 
+-Consultar categorias: select
+-Eliminar producto: delete 
+-Agregar proveedores: insert 
+-Modificar Proveedores; Update
+
+
+Rol: Trabajadores de Almacen 
+-Agregar productos: insert 
+-Modificar productos: update 
+-Consultar categorias: select
+
+
+
